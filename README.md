@@ -52,7 +52,7 @@ pip install opencv-python mediapipe pyautogui pywin32 screeninfo
 1. Run the Python script:
 
    ```bash
-   python virtual_mouse.py
+   python main.py
    ```
 
 2. The program will start capturing from your default webcam. Ensure your hand is visible to the webcam.
